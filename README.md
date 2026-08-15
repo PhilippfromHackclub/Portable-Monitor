@@ -1,5 +1,6 @@
 # Portable-Monitor
 This is a portable monitor using an old display from a broken laptop (**Prestigio SmartBook 141 C7**).<br>
+I choose to built this portable monitor because I got the mentioned laptop for free from a friend of mine and the motherboard was damaged to an unrepairable point. The Display was still intact and so I used it in this project.<br>
 The display is a **14.1" Display** with a resolution of **1366x768 px** and a **30 Pin connector**.<br>
 The **HDMI Driver Board** supports a **5V Power Input over USB-C** and a **HDMI Video Input**, it also allows **brightness control over a Scroll Wheel** . 
 
