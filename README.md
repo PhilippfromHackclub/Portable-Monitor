@@ -14,6 +14,11 @@ This is a portable monitor using an old display from a broken laptop.
 
 
 ## Parts<br>
+**Display:**<br>
+<img src="https://cdn.hackclub.com/01a004b5-9b35-71d8-bd10-71a363513302/image.png" width="40%" height="40%" alt="Whole Front" >
+
+**HDMI Driver Board:**<br>
+<img src="https://cdn.hackclub.com/01a004b4-4b5c-7666-85e5-f17bdedbc6ad/image.png" width="40%" height="40%" alt="Whole Front" >
 
 
 ## 3D Printed Parts<br>
