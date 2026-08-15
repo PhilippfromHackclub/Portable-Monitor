@@ -12,3 +12,20 @@ This is a portable monitor using an old display from a broken laptop.
  | Screws | 1 | $1.75 | https://de.aliexpress.com/item/1005006904738286.html?spm=a2g0o.productlist.main.5.7c834ed6Tdad2i&algo_pvid=45812fac-4db3-47bd-a318-66076bea9e9c&algo_exp_id=45812fac-4db3-47bd-a318-66076bea9e9c-4&pdp_ext_f=%7B%22order%22%3A%2283519%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005006904738286%22%2C%22orig_item_id%22%3A%221005006674897468%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.22%211.61%21%21%2121.59%2110.79%21%400b15834e17867036184167264e0dc4%2112000059465164594%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae7687ea0%3Bm03_new_user%3A-29895&curPageLogUid=KKHvlnEuOxHi&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006904738286%7C_p_origin_prod%3A1005006674897468 | 
  | Heated Inserts | 1 | $2.15 | https://de.aliexpress.com/item/1005008666672949.html?spm=a2g0o.productlist.main.4.15a33820sX586o&aem_p4p_detail=2026081403352414101282169270060000060393&algo_pvid=ab551884-a658-405a-a8bd-3692b2681edc&algo_exp_id=ab551884-a658-405a-a8bd-3692b2681edc-3&pdp_ext_f=%7B%22order%22%3A%2214204%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.85%212.85%21%21%2119.10%2119.10%21%402103973d17867037247281703e0f53%2112000046157335344%21sea%21DE%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ae7687ea0%3Bm03_new_user%3A-29895&curPageLogUid=KpOiSUaaeojh&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008666672949%7C_p_origin_prod%3A&search_p4p_id=2026081403352414101282169270060000060393_1 | 
 
+
+## Parts<br>
+
+
+## 3D Printed Parts<br>
+The portable monitor housing is available as a whole part and as a split up parts for smaller printers.
+
+**Whole Part:**
+ | Front | Back | 
+ | ----- | ---- |
+ | <img src="https://cdn.hackclub.com/01a0048f-f34a-7979-8e28-e923c58f5abc/Whole%20Front.png" width="100%" height="100%" alt="Whole Front" > | <img src="https://cdn.hackclub.com/01a0048f-b94e-792c-aba7-80a0cfcf0fc5/Whole%20Back.png" width="100%" height="100%" alt="Whole Back" > | 
+ 
+
+**Split Part:**
+ | Front | Back | 
+ | ----- | ---- | 
+ | <img src="https://cdn.hackclub.com/01a0048f-80db-719b-aa8a-12a11dd863dc/Split%20Front.png" width="100%" height="100%" alt="Split Front" > | <img src="https://cdn.hackclub.com/01a0048f-4ee5-70d8-827b-3644fb93ffc6/Split%20Back.png" width="100%" height="100%" alt="Split Back" > | 
