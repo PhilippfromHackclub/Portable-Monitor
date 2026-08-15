@@ -1,6 +1,7 @@
 # Portable-Monitor
 This is a portable monitor using an old display from a broken laptop (**Prestigio SmartBook 141 C7**).<br>
-The display is a **14.1" Display** with a resolution of **1366x768 px** and a **30 Pin connector**.
+The display is a **14.1" Display** with a resolution of **1366x768 px** and a **30 Pin connector**.<br>
+The **HDMI Driver Board** supports a **5V Power Input over USB-C** and a **HDMI Video Input**, it also allows **brightness control over a Scroll Wheel** . 
 
 <img src="https://cdn.hackclub.com/01a004c0-acc9-7f1f-b42e-f56084d73b97/image.png" width="100%" height="100%" alt="Portable Monitor" >
 
