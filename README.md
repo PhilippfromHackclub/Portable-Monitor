@@ -1,7 +1,7 @@
 # Portable-Monitor
 This is a portable monitor using an old display from a broken laptop.
 
-
+<img src="https://cdn.hackclub.com/01a004c0-acc9-7f1f-b42e-f56084d73b97/image.png" width="100%" height="100%" alt="Portable Monitor" >
 
  | Parts | Quantity | Price | Link | 
  | ----- | -------- | ----- | ---- | 
